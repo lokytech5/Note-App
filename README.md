@@ -8,6 +8,11 @@
 ## Technical Details
 This application was built using React and may require additional dependencies or libraries to run. Please see the project's package.json file for a full list of requirements.
 
+## Screenshot
+![image of note app](/public/Notes%20App.png)
+
+## Try the App
+You can try the app online at the following link: [Note App]()
 ## Getting Started
 To get started with the Notes App, follow these steps:
 
