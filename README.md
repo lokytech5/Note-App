@@ -12,7 +12,7 @@ This application was built using React and may require additional dependencies o
 ![image of note app](/public/Notes%20App.png)
 
 ## Try the App
-You can try the app online at the following link: [Note App]()
+You can try the app online at the following link: [Note App](https://glittery-rolypoly-0a813b.netlify.app)
 ## Getting Started
 To get started with the Notes App, follow these steps:
 
