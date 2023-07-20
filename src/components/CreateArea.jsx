@@ -31,7 +31,7 @@ function CreateArea(props) {
   function expand() {
     setExpanded(true);
   }
-
+  
 
   return (
     <div>
